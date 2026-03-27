@@ -6,7 +6,7 @@ import { ref, onMounted } from 'vue';
 // const API_URL = "http://localhost:3000/api/moods";
 
 // To this:
-const API_URL = "https://se2-lab6-backend-q2vx.onrender.com/api/moods";
+const API_URL = "https://edwardddd1.github.io/SE2-LAB6-frontend/";
 
 // 2. Reactive State
 const formData = ref({
